@@ -1,4 +1,4 @@
 # khan-demo
 this is my first Repository
 <br>
-Author - Kasif khan
+Author - Kasif khan (use github)
